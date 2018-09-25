@@ -6,7 +6,7 @@ Created on Wed Mar 28 21:44:10 2018
 """
 import time
 def wait():
-    time.sleep(3.3)
+    time.sleep(1.1)
 for i in range(50):
-    wait
+    wait()
     print(i)
