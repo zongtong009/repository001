@@ -1,0 +1,43 @@
+dir('modul')
+
+for i in line:
+if '' in url:
+f = open(htmlpath,"r",encoding = 'utf-8')
+txt = open("hamlet.txt", "r").read()
+line = line.strip()    #去掉每行头尾空白 
+ls=f.readlines()   // txt=f.read()
+for ch in '!"#$%&()*+,-./:;<=>?@[\\]^_‘{|}~':
+        txt = txt.replace(ch, " ") 
+
+counts[word] = counts.get(word, 0) + 1
+    #取出当前word对应的值，若不存在则取0
+
+items = list(counts.items())  #列表化
+items.sort(key=lambda x: x[1], reverse=True)  #排序
+
+random = [(2, 2), (3, 4), (4, 1), (1, 3)]
+# 指定第二个元素排序
+random.sort(key=takeSecond)
+##输出为[(4, 1), (2, 2), (1, 3), (3, 4)]
+
+ls=["delphi","Delphi","python","Python","c++","C++","c","C","golang","Golang"]  
+ls.sort(key=lambda ele:len(ele)) #按元素长度顺序升序排列   
+ls.sort(key=lambda ele:len(ele),reverse=True) #按降序排列  
+
+fp = open(filename, "w") #创建一个名为filename的文件
+
+ls.append(line.strip('\n').split(","))
+
+revudwnptyaxjzoifmqkcglhbs
+regedituuv
+
+这个数经过无限次计算，始终不会得到比他本身小的数
+
+如果得到它本身会怎样？
+应该不可能吧！
+
+中国好像喜欢大器晚成，早慧固然好，但大器晚成或许更让人认同
+
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+python learning.py
+
