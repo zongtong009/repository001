@@ -38,4 +38,8 @@ jupyter notebook哈-希-表   'sha1:1c3090730423:77b303ef833db8048a6a938388a2481
     n       执行n/一千亿 = 十亿/一千亿                     = 1e3 s = 0.01 s =10ms
     nlogn   执行n*logn/一千亿 = 十亿*log(十亿,2)/一千亿    = 3s
     n**2    执行n*n/一千亿 = 十亿*十亿/一千亿              = 一千万 s = 116天
+
+while...else 和for...else
+    当退出循环时执行else
+
     

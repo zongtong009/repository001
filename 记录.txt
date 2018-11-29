@@ -1,5 +1,5 @@
 抽象の聖書
-CTRL +/      注释，C语言是//，python是#
+CTRL +/     
 mima
 从右向左写，然后左对齐
 拼音加密，再转译加密
@@ -19,7 +19,7 @@ pip -v
 cd 空格，然后把文件夹拖进来
 cd 5.2实例7-七段数码管绘制源代码
 
-pyinstaller -F SevenDigitsDrawV1.py
+pyinstaller -F -i test.ico SevenDigitsDrawV1.py
 python --version
 help('module_name')
 
@@ -29,8 +29,6 @@ help('module_name')
 数据结构、计算机组成原理、操作系统和计算机网络。
 《数据结构》（C语言版）、《计算机操作系统》、《计算机网络》、《计算机组成原理》、《计算机学科专业基础综合复习指南 》、《全国硕士研究生入学统一考试计算机专业基础综合考试大纲解析》。
 
-pyinstaller -F SevenDigitsDrawV1.py
-
 SHIFT+CTRL+H  搜索和替换
 Ctrl+Shift+L  同时选中所有匹配
 
@@ -39,7 +37,7 @@ Ctrl+Shift+L  同时选中所有匹配
 1782，密码314，总统010，绑定62109846,
 15507，密码314，一路网到底，2T
 1413，密码009,绑定62109846,2T
-3072125644,密码009,張 ，2T,python
+3072125644,密码009,張 ，2T
 zxcqwe009  密码zxcvbnmqwe123  火影忍者ol台服
 
 Not Found
