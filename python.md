@@ -1,3 +1,9 @@
+#anaconda清华镜像 .condarc
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+show_channel_urls: true
+ssl_verify: true
+
 # DocStrings 文档字符串使用惯例：
 # 它的首行简述函数功能，第二行空行，第三行为函数的具体描述,
     且只能用''' '''三括号表达。
@@ -42,4 +48,6 @@ jupyter notebook哈-希-表   'sha1:1c3090730423:77b303ef833db8048a6a938388a2481
 while...else 和for...else
     当退出循环时执行else
 
-    
+    from math import *
+    度数x转弧度--->>>(x*π)/180
+

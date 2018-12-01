@@ -41,6 +41,11 @@ regedituuv
 https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
 python learning.py
 
-numpy安装失败,使用pip install --upgrade numpy直接更新
+###ImportError：DLL load failed：找不到指定的程序
+	此问题会提示from xxx1 import xxx 失败
+	那是因为xxx1版本错误，可以conda/pip uninstall xxx1删除
+	然后pip install pip install --upgrade xxx1直接更新
+	###若出现好几行from xxx1 import xxx 失败
+	###以最后一行为错误来源
 update 更新，内容变化
 upgrade 升级，版本的大变动
