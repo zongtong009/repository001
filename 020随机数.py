@@ -8,20 +8,3 @@ import random
 random.seed(10)   #不用种子会使用系统时间
 for i in range(20):  
     print(random.random())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
