@@ -1,3 +1,8 @@
+python的科学计算有三剑客：numpy，scipy，matplotlib。
+--numpy负责数值计算，矩阵操作等；
+--scipy负责常见的数学算法，插值、拟合等；
+--matplotlib负责画图。
+
 dir('modul')
 
 for i in line:

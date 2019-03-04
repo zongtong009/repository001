@@ -1,8 +1,8 @@
 #anaconda清华镜像 .condarc
-channels:
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
 show_channel_urls: true
 ssl_verify: true
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
 
 # DocStrings 文档字符串使用惯例：
 # 它的首行简述函数功能，第二行空行，第三行为函数的具体描述,
