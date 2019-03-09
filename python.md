@@ -1,3 +1,5 @@
+# 字符串多用join
+# curses安装直接在Pypi找windows-curses
 #anaconda清华镜像 .condarc
 show_channel_urls: true
 ssl_verify: true
