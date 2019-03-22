@@ -37,8 +37,6 @@ print (printMax.__doc__) # 调用 doc
 # 结果为True
 如上例所示，当 num 发生变化时(前提是 id(num) 不发生变化），alist 的内容随之会发生变化。往往会带来意想不到的后果，想避免这种情况，可以采用深拷贝解决：
 alist.append( copy.deepcopy( num ) )
-
-jupyter notebook哈-希-表   'sha1:1c3090730423:77b303ef833db8048a6a938388a2481d42d9e2dd'
     
 #处理10亿个数（排序）
     假设有一个计算机每秒执行1000亿条指令
