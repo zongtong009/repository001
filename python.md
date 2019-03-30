@@ -1,3 +1,6 @@
+# 可变参数
+    可变参数就是传入的参数个数是可变的，可以是1个、2个到任意个，还可以是0个。
+    可以用 *k 的方式定义可变参数。可变参数传入函数后自动组装为一个tuple。
 # 字符串多用join
 # curses安装直接在Pypi找windows-curses
 #anaconda清华镜像 .condarc
