@@ -1,3 +1,8 @@
+anaconda 2018.12    不要随便升级
+    Anaconda-Navigator=1.9.2
+    jupyterlab 0.35.3
+    jupyter 5.7.4
+            
 # 可变参数
     可变参数就是传入的参数个数是可变的，可以是1个、2个到任意个，还可以是0个。
     可以用 *k 的方式定义可变参数。可变参数传入函数后自动组装为一个tuple。
@@ -57,3 +62,38 @@ while...else 和for...else
     #写一个库，输入三角形的三个边输出三角形的所有其他信息
     #  例如三个角，周长，面积，高，心等等...
  #用filter和生成器求素数
+ 
+C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath;
+C:\Program Files (x86)\NetSarang\Xshell 6\;D:\SOFT\;C:\Program Files\Microsoft MPI\Bin\;
+%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;
+D:\SOFT\WinRAR\WinRAR.exe;C:\Program Files\Microsoft VS Code\bin;
+C:\Program Files (x86)\Dev-Cpp\MinGW64\bin;
+C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;
+C:\Program Files (x86)\Common Files\THSOFT Shared;C:\Program Files\nodejs\;
+C:\Program Files\dotnet\;C:\Program Files\Windows Imaging\;
+C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;
+C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;
+%systemroot%\System32\WindowsPowerShell\v1.0\;
+C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;
+C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;
+C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;
+C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;
+
+C:\Program Files (x86)\Common Files\THSOFT Shared;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Windows Imaging\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;%systemroot%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;
+
+C:\Program Files\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;
+G:\SOFT\WinRAR\WinRAR.exe;C:\Users\Administrator\AppData\Local\atom\bin;%PyCharm%;
+C:\Users\Administrator\AppData\Roaming\npm;%GoLand%;
+%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;;%IntelliJ IDEA%
+
+C:\Program Files (x86)\Common Files\THSOFT Shared;
+C:\Program Files\nodejs\;C:\Program Files\dotnet\;
+C:\Program Files\Windows Imaging\;
+C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;
+C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;
+%systemroot%\System32\WindowsPowerShell\v1.0\;
+C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;
+C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;
+C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;
+C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;

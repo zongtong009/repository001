@@ -1,3 +1,9 @@
+javac Main.java
+java Main       //不加.class
+# -Dfile.encoding=UTF-8
+# -Dfile.encoding=UTF-8
+
+label:   break label;   跳出label后的循环
 # final 定义不可变常量 (和C语言的const相似)
 
 #scanner in = new scanner(System.in);
