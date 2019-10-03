@@ -11,6 +11,7 @@ magnet:?xt=urn:btih:
 心里的约束，破坏了约束，对约束的厌恨和仇视厌弃，现实行为都是心里的自我控制，心里不想约束
 了，行为也就被放大了
 
+密码  www.mukedaba.com
 
 一次性相机
 抽象の聖書
@@ -57,7 +58,6 @@ Ctrl+Shift+L  同时选中所有匹配
 zxcqwe009  密码zxcvbnmqwe123  火影忍者ol台服
 
 Not Found
-孙倩篇
 '{:0.1%}'.format(a)直接表达为百分制
 '%.1f %%'%(a*100)
 
