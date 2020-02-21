@@ -3,6 +3,18 @@ python的科学计算有三剑客：numpy，scipy，matplotlib。
 --scipy负责常见的数学算法，插值、拟合等；
 --matplotlib负责画图。
 
+jupyter lab
+jupyter notebook
+两个指令分别打开notebook和lab
+
+在文件夹的搜索栏输入cmd,可以直接打开当前文件夹的cmd
+
+python创建虚拟环境
+    1基础版
+    2数据分析
+    3爬虫
+    4其他
+
 dir('modul')
 
 for i in line:
